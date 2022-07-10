@@ -10,7 +10,8 @@
 ## ![image](https://user-images.githubusercontent.com/54635552/178141311-80735b90-ca1d-4648-8092-621a4c00e0de.png)
 
 ## MLops 필요한 이유
-## ![image](https://user-images.githubusercontent.com/54635552/178141328-e62b0c6f-6e22-41f8-b23f-786a322b23cd.png)
+## ![image](https://user-images.githubusercontent.com/54635552/178141345-27fccabd-9787-4be0-8c8f-b7b0afbcf47d.png)
+
 
 ## 출처
 - https://www.youtube.com/watch?v=xZKtofBe18I&ab_channel=%EC%B9%B4%EC%9D%BC%EC%8A%A4%EC%BF%A8
